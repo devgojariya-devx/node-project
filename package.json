@@ -1,0 +1,15 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Simple Node.js project with Express and a basic test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
