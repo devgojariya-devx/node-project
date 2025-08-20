@@ -9,3 +9,9 @@ lambda_package.zip
 
 # Optional: Ignore environment variable files if any
 .env
+
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate.*
+crash.log
+*.tfplan
