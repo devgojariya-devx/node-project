@@ -1,0 +1,11 @@
+# Ignore node modules folder
+node_modules/
+
+# Ignore Lambda deployment package
+lambda_package.zip
+
+# Ignore Terraform local files
+.terraform/
+
+# Optional: Ignore environment variable files if any
+.env
